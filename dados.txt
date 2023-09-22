@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Mauricio
+-Profissão: Quality Assurance Junior
+-Cidade: Canoas-RS
+-O que faz nas horas vaga: Assisto Filmes, Faco Exercicios e Saio com os amigos
+-Feedback sobre o curso Qualidade de Software: Ate o momento nota 10
+-Feedback sobre a plataforma de estudo da EBAC: Excelente
 
 Obrigado!!!
 
