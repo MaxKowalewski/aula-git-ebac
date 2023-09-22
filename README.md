@@ -14,4 +14,4 @@ Fique a vontade se não quiser responder todos os itens.
 
 -No commit coloque a mensagem: “Modificando o arquivo de dados”.
 
--Compartilhe seu github conosco em nossa plataforma;# aula-git-ebac
+-Compartilhe seu github conosco em nossa plataforma;# aula-git-ebac.
